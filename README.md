@@ -7,7 +7,7 @@ The plugin itself does not do anything useful for the end user, but it is requir
 
 ### Installation
 
-1. Download the [Panel Button](https://github.com/wwalc/panelbutton) module, put it into the module folder, then enable it.
+1. Download the [Panel Button](https://github.com/wwalc/panelbutton) module, put it into the modules folder, then enable it.
 2. Done!
 
 ### License
