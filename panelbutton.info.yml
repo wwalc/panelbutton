@@ -1,6 +1,6 @@
 name: CKEditor Panel Button
 type: module
-description: This plugin extends the Button Interface plugin and represents a single dropdown menu item, color panel, etc.
+description: This plugin extends the button interface in CKEditor and represents a single dropdown menu item, color panel, etc.
 core: 8.x
 package: CKEditor
 version: VERSION
